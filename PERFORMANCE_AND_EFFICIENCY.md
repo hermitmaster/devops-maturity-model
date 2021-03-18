@@ -61,7 +61,7 @@ inventory is required.
 - The roles and responsibilities for keeping the inventory up-to-date are
   defined
 - Systems for tracking devices that are connected to the network and their
-  hardware configurations are in place
+  configurations are in place
 
 ## Level 4: Managed
 
@@ -84,7 +84,5 @@ inventory is required.
 - Services that use large amounts of resources are identified and changes are
   made
 - Changes are reverted if the changes do not have a positive effect
-- Computer hardware models are regularly evaluated to find models where
-  utilization of the different resources is better balanced
-- Other sources of hardware and other hardware models are regularly evaluated to
-  determine if cost efficiency can improved
+- Resources are regularly evaluated to find models where utilization of the
+  different resources is better balanced
